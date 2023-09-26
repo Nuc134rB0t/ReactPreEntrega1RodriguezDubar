@@ -14,4 +14,3 @@
 # Objetivos:
 [X] Crear el menú e-commerce de tu proyecto.
 [X] Crear la landing de tu proyecto.
-
